@@ -1,0 +1,495 @@
+product/productId: B000179R3I
+product/title: Amazon.com: Austin Reed Dartmouth Jacket In Basics, Misses: Clothing
+product/price: unknown
+review/userId: A3Q0VJTUO4EZ56
+review/profileName: Jeanmarie Kabala "JP Kabala"
+review/helpfulness: 7/7
+review/score: 4.0
+review/time: 1182816000
+review/summary: Periwinkle Dartmouth Blazer
+review/text: I own the Austin Reed dartmouth blazer in every color in which they make it-- it is a staple of my business wardrobe. Well made, quality fabric, nicely tailored, classic lines, appropriate for a professional woman. (something that can be hard to find at times) It should be noted, however, that the periwinkle and raspberry colors are lovely, but the fabric and buttons are slightly different than the "classic" colors(lighter) and the linings and interfacings are not as substantial as the brown, navy, camel, red and ivory. It's still a good value, particularly as these are colors appropriate to warmer seasons and climates, but I was a bit surprised.
+
+product/productId: B0000C3XXN
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0000C3XX9
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B000F8L3IK
+product/title: Mcarthur San Diego Chargers Bath Robe
+product/price: 80.36
+review/userId: A2PF4C1R6OALE9
+review/profileName: Eric Newhart
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1358640000
+review/summary: High quality, but very large.
+review/text: Definitely not disappointed with the quality of this product, but I'm not sure about the claim that &#34;one size fits most.&#34; Maybe most football players. Very large, but shrinks a little with washing.
+
+product/productId: B0000C3XX5
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0000C3XXB
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0002ZI3NY
+product/title: Amazon.com: COCOONS MINI SLIM (MS) Designed to be worn over Rx frames not exceeding 125 mm wide x 35 mm high (4 15/16&#39;&#39; x 1 3/8&#39;&#39;): Cocoons: Clothing
+product/price: unknown
+review/userId: A3M0FD65RC3DJ7
+review/profileName: yumiwong
+review/helpfulness: 0/0
+review/score: 5.0
+review/time: 1348704000
+review/summary: Excellent purchase
+review/text: Excellent purchase, cannot go wrong with Cocoons, have tried the cheaper imitations sold at the drugstores and these are far superior in comfort, styling, and quality of lens. I am back to Cocoons for life! Great seller and service!
+
+product/productId: B0009Q5XOS
+product/title: adidas Men's 3-Stripe Fleece Pant,Black/White,X-Large
+product/price: unknown
+review/userId: A1UIXA657W8LWT
+review/profileName: J. Williams
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1294531200
+review/summary: comfy,warm.. but run big
+review/text: just like the title says. Warm, comfy but run a size too big. I don't wear them out as they are just for lounging, so it's not that big of a deal for me.
+
+product/productId: B0009Q5XOS
+product/title: adidas Men's 3-Stripe Fleece Pant,Black/White,X-Large
+product/price: unknown
+review/userId: A4QCLLNAVAFOG
+review/profileName: E. Hansen "Fitness Guy"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1171324800
+review/summary: Good value in gym wear
+review/text: As is the case with most adidas products I've owned, my 3-stripe fleece pants are made for style, fit, and durability. They are just the right weight of fabric for those cool winter mornings in Southern California (not so for 85degree summer days, when I'll stash them away for cooler days to come). My size is somewhere between a medium and a large. These adidas pants are amply cut, but maybe a tad too roomy for my particular build. A medium would probably be restrictive when I'm doing calesthenics or some weight exercises. This being said, I am nevertheless very happy with this product and with Amazon's superior service.
+
+product/productId: B00028NJTY
+product/title: Amazon.com: Dickies Girls 4-6x Flat Front Pant - School Uniform: Clothing
+product/price: unknown
+review/userId: A3RNIF23UKNKKB
+review/profileName: MICIA HARDAWAY
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1354752000
+review/summary: Great fit!
+review/text: I received the size I ordered and they fit perfectly. Normally, I am unsure when it comes to children clothes, but I am pleased with these pants.
+
+product/productId: B00028NJTY
+product/title: Amazon.com: Dickies Girls 4-6x Flat Front Pant - School Uniform: Clothing
+product/price: unknown
+review/userId: A38DKLX0UNTAL9
+review/profileName: Lisa
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1355443200
+review/summary: Too Uncomfortable and Too Big
+review/text: These pants were way too big (looked about 2 sizes larger), and they were incredibly stiff. They would have been very uncomfortable for my daughter to wear all day.
+
+product/productId: B00028NJTY
+product/title: Amazon.com: Dickies Girls 4-6x Flat Front Pant - School Uniform: Clothing
+product/price: unknown
+review/userId: A2G0LNLN79Q6HR
+review/profileName: aj_18 "Aj_18"
+review/helpfulness: 0/0
+review/score: 4.0
+review/time: 1355270400
+review/summary: Pretty decent but need the adjustable waist band.
+review/text: I ordered these for my five year old in size 6. They are pretty decent pants but just one addition would make these pants a five,if they added the adjustable waist band feature that most of the pants her size have(the one with stretch and a button inside the waist band). Other than this one suggestion they wash and wear well.
+
+product/productId: B0000C3XXY
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0000C3XXU
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0000C3XXL
+product/title: Amazon.com: Austin Reed Andover Jacket, Petites: Clothing
+product/price: unknown
+review/userId: A34JM8F992M9N1
+review/profileName: M. Shapiro
+review/helpfulness: 6/6
+review/score: 5.0
+review/time: 1205107200
+review/summary: great classic jacket
+review/text: This is the second time I have bought this jacket. I wore the first one out! I am an attorney and it is becoming difficult to find tailored clothes to fit a mature woman. I plan to buy this jacket in some other colors now that I have the proper size. This is a great easy wearing piece for any professional woman young or old.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2XUKC3WAGP74Z
+review/profileName: R. M. Henne
+review/helpfulness: 16/16
+review/score: 5.0
+review/time: 1130889600
+review/summary: Great Pants
+review/text: These are great pants. They are really comfortable and easy to care for. I'm saving money too because I don't have to take these to the dry cleaners. I love the "Individual Fit" waste band. Who wouldn't like pants that fit a larger waste size without making you admit the weight gain by buying the larger size.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: ACFDE4MTJQUHN
+review/profileName: NickG "NickG"
+review/helpfulness: 10/10
+review/score: 4.0
+review/time: 1130112000
+review/summary: These are great classic pants
+review/text: These pants are really great. They fit well and rarely wrinkle. I like that they are really classic - I can wear them at the office and then I can wear them if I go out later in the evening as well. I have owned a lot of Docker's pants and they all last extremely well.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A3VJ21X0MEUMU9
+review/profileName: P. Dean
+review/helpfulness: 8/8
+review/score: 2.0
+review/time: 1156118400
+review/summary: Too Small
+review/text: I have bought dockers for years but these are cut smaller than they usually are. Even with the "stretch" waist band they are tight. So much for an "extra" inch. Beware. Try these in a store before you buy.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2Y0VTT1FLW5KB
+review/profileName: A reviewer
+review/helpfulness: 8/9
+review/score: 5.0
+review/time: 1147737600
+review/summary: A good product available in convenient range of sizes
+review/text: This product earns five stars not just because it is comfortable to wear and looks good but because it is available in more size (inseam) ranges than other Dockers products. And by ordering online one can largely avoid the disappointment of store stock outs.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2WPQUDZSARBG3
+review/profileName: Saracen
+review/helpfulness: 4/4
+review/score: 3.0
+review/time: 1217548800
+review/summary: Not the product described
+review/text: I ordered these slacks specifically because the description said they had a comfort-fit waistband. I am an ostomy patient and occasionally need that little extra inch the elastic expansion in the waistband gives you. Despite clearly stating that these pants had that comfort-fit waistband, the pants I received did not have it. In all other regards these pants are perfectly fine, They fit well, and are in every other respect exactly what I expected. However, the fact is that they are still not what I ordered and are not as described.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2BEWWPLHU1YP0
+review/profileName: N. Koyama
+review/helpfulness: 4/4
+review/score: 5.0
+review/time: 1196380800
+review/summary: Great Pants
+review/text: We had a hard time finding Dockers in 29x30. This place had them, and they fit great. Shipping was quick. We would buy from again.Recommended!!
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AB5UD27W58JEI
+review/profileName: Michael Jones
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1155168000
+review/summary: Best Dockers for the Money
+review/text: The Dockers "individual fit" system works well, in that one can get by without "odd" waist sizes like 33, 35, etc. by ordering even sizes and allowing the system to stretch a bit if it needs to. These pants are very durable, and still look presentable after washing and machine drying. An ironing every so often would probably be useful for "business casual". A good value.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A29APR9X78MSFR
+review/profileName: Vianne M. Slentz
+review/helpfulness: 3/3
+review/score: 5.0
+review/time: 1168819200
+review/summary: Wonderful
+review/text: I went online for information about Dockers Khaki pants. The size my husband wears are very hard to find in stores. I was very impressed with the selection I had and he was thrilled to have all these pants without having them taken up in the length. The delivery was quick (especially during Christmas) and I really appreciate all the effort made to send us the selections we chose.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AVZZJZNAS0RZP
+review/profileName: Mr. MacD. "mrmacd"
+review/helpfulness: 5/6
+review/score: 5.0
+review/time: 1136332800
+review/summary: Great pants
+review/text: The pants were just what I was looking for and the seller, Beals Florida was prompt and courteous.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2AFWSG303UJ1I
+review/profileName: D. Sharp "DJS"
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1211068800
+review/summary: Dockers Classic Pleated Pants
+review/text: Vendor shipped quickly. The quality of Dockers products is getting worse with their outsourcing to different countries. I have 5 pair of these pants and they are all manufactured in different countries and the length varies plus or minus 1.5" for the same listed inseam. Plan a few dollars for inseam adjustment if you do not sew.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A18T98USYDWU5E
+review/profileName: LINDA ATKINSON "TOM"
+review/helpfulness: 2/8
+review/score: 1.0
+review/time: 1153785600
+review/summary: TOM ATKINSON REVIEW
+review/text: I DID NOT GET THE SLACK THAT HAD THE WAISTBAND. I GOT SLACK WITH NO WAISTBAND, SO I SEND THEM BACK AN WAS TRYING TO GE A 42 29 BUT I RECEIVED A E MAIL STATETING THAT THE PRODUCT WAS NO LONGER AVABILITY. SO FAR I'AM NOT SURE WERE MY REFUND WENT. PLEASE LET ME KNOW.TOM ATKINSON
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A27E2E9VB5O4DV
+review/profileName: David R. Snider
+review/helpfulness: 7/28
+review/score: 5.0
+review/time: 1135296000
+review/summary: sorry for the inappropriate posting
+review/text: Ok so these are great pants. Come on guys. They are pleated. Even though the stores sell pleated pants doesn't mean you should be wearing them.The only thing the pleats do is add bulk to the waist line area and make you look fat or fatter.Just get the flat front Dockers and do all of us a favor.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2ULFJ6SKLHK29
+review/profileName: Fredybougnat66
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1231459200
+review/summary: Nice looking for mid seasons
+review/text: Nice pants, well made, but should be announced with a light textile compared with the pants I bought in France. I Still happy to find fashioned double pleat pants.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: unknown
+review/profileName: unknown
+review/helpfulness: 0/0
+review/score: 3.0
+review/time: 1223078400
+review/summary: Quality varies
+review/text: I bought 3 pants.2 were in a great shape.1 had a hole in the seams and a week later I found another one.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A2VVEMVK3E9ELB
+review/profileName: John Doe
+review/helpfulness: 0/0
+review/score: 2.0
+review/time: 1203897600
+review/summary: Cut smaller than usual
+review/text: I agree, these are cut small... Buy an inch or two larger than you normally do. The waist band does NOT stretch.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AAMD3X6UR6VLX
+review/profileName: W. Jia
+review/helpfulness: 4/7
+review/score: 2.0
+review/time: 1174608000
+review/summary: Wrong item sent.
+review/text: I got the shippment quickly. But wrong items was sent. I have to return it to the seller. I got the refund pretty quick, but only for the value of product. I spent about &10 for two way shipping without geting anything.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A1LGFU5CYQ356J
+review/profileName: Gina
+review/helpfulness: 0/1
+review/score: 1.0
+review/time: 1252454400
+review/summary: Too bad....
+review/text: Did not like the pants at all, and threw them in the trash rather than pay return postage. Flimsy, smelled of dye, cheap fabric, etc. Too bad.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A32JEJT3WY1QWJ
+review/profileName: Slim Jim
+review/helpfulness: 0/1
+review/score: 4.0
+review/time: 1234742400
+review/summary: Dockers do the job.
+review/text: This product was just what I was hoping for, and I had no problem with shipping. I highly recommend this product.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A3LDH40QCZHMY3
+review/profileName: Coast-Lover
+review/helpfulness: 0/1
+review/score: 5.0
+review/time: 1225843200
+review/summary: Good job, Beall's...
+review/text: "Package arrived before the estimated date, and actually was delivered the same day as another item ordered from another seller which was sent 2nd-day air on the same day! Way to go Bealls! The pants fit fine, right colors, right size, so that's what counts."
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A18Y1SM5T54JIU
+review/profileName: Steven B. Shine
+review/helpfulness: 3/6
+review/score: 1.0
+review/time: 1169942400
+review/summary: Doublecharged for shipping because merchant was backordered
+review/text: Merchant was out of stock on the second pair of pants, so when it was shipped I was charged $9 again when the second pair was in stock weeks later.Will not buy from Amazon vendors again.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A1NPBBDWZTL36Z
+review/profileName: Brian Woody
+review/helpfulness: 10/18
+review/score: 5.0
+review/time: 1094342400
+review/summary: Excellent seller!
+review/text: Good communication and super-fast shipping! Item arrived exactly as described (I am actually wearing them right now...). I have never had a better online purchasing experience. Thanks a million!
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A6A9ZI8SWA420
+review/profileName: CP
+review/helpfulness: 0/2
+review/score: 1.0
+review/time: 1254268800
+review/summary: False advertising
+review/text: If you search for Super Saver shipping this advertisement comes up, but this product is not shipped by Amazon is does not go out with the Super Saver shipping, and the cost of shipping is nearly 20% the cost of the pants.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A1M4F0MMFGJTIB
+review/profileName: Robert B. Ludwig
+review/helpfulness: 2/2
+review/score: 3.0
+review/time: 1175731200
+review/summary: Mixed feelings
+review/text: While the quality of the product is great, like so many wash pants today, there is no room at the waist for making adjustments. The rear seam is extremely tight, and while it can be taken in with difficulty, there is no room for letting out even 1/2 inch. Purchase a size above your waist size, and unless you can do it yourself, be prepared to pay for making these a good fit. Of course, if you don't mind bunching at the waist, you'll be OK.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AX6ZJZPKFIZJ0
+review/profileName: Bruce D. Funk
+review/helpfulness: 2/2
+review/score: 5.0
+review/time: 1175472000
+review/summary: nice trousers
+review/text: very happy with the look and fit. the fabric feel is great, don't even think of them as "khakis".
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AO2QXSLYMZF1U
+review/profileName: MWR
+review/helpfulness: 2/2
+review/score: 4.0
+review/time: 1171065600
+review/summary: Fit great
+review/text: The pants are very soft and comfortable. The color holds up fairly well, but I do wish the darker colors held better. I do recommend them.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A121J6HRXPO1Y6
+review/profileName: H. Williams
+review/helpfulness: 1/1
+review/score: 2.0
+review/time: 1252713600
+review/summary: Don't Trust the Images
+review/text: Dockers are Dockers, so that's not the problem. Just be sure you don't trust the images if you choose to buy these via Amazon. "Cafe," for example, should be "Coffee." Despite the fact that the image for "Cafe" shows a stone or very light gray color, "Cafe" is actually dark brown. So the product isn't defective, but IS misleading: I didn't want brown pants, but that's what I got.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A1GHUN5HXMHZ89
+review/profileName: C. A. Luster "The Rook"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1235347200
+review/summary: You get what you pay for
+review/text: To often I have made the mistake of ordering from unreliable clothing sellers, but not here. These are real Dockers slacks with real quality. These run true to size and are excellent quality materials for a decent price. I like the pleated slacks myself because after hitting thirty plus most men have a little extra in the handle section. Pleats seem to disguise that nicely. I recommend these because Dockers are great slacks and wear well, and these are true Dockers.CA Luster
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A3R7ON5HLF96MH
+review/profileName: R. Greeley
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1178496000
+review/summary: Satisfied
+review/text: Product arrive well ahead of schedule, met expectations, and price was better than local retail.
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: A1G40P7TYZTMB4
+review/profileName: Woody
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1171584000
+review/summary: good fit
+review/text: received the pants when you said. they fit. i am pleased with the purchase and the delivery
+
+product/productId: B0000WLLWE
+product/title: Amazon.com: Dockers Original Khaki Classic Fit - Pleated, W38 L32, Charcoal Heather: Clothing
+product/price: unknown
+review/userId: AORCXT2CLTQFR
+review/profileName: Justo Roteta
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1171497600
+review/summary: Casual and very classy.
+review/text: I absolutely love these (white) Dockers pants! They go very well with both polo shirts and long-sleeve dress shirts and are made of very comfortable cotton. For summer wear, you can get a casual yet very classy look if you pair them with a shirt from Van Heusen, DKNY, Pierre Cardin, Geoffrey Beene, Stafford or other such brand. The "individual-fit" waistband automatically expands by one inch for added comfort.
+
